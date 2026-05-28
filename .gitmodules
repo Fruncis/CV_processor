@@ -1,3 +1,6 @@
 [submodule "backend"]
   path = backend
   url = https://github.com/Fruncis/backend.git
+[submodule "frontend_CV_procesor"]
+	path = frontend_CV_procesor
+	url = https://github.com/Fruncis/frontend_CV_procesor.git
